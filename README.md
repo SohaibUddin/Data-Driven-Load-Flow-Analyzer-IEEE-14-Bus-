@@ -1,4 +1,4 @@
-# Data-Driven Load Flow Analyser
+# Data-Driven Load Flow Analyzer
 
 An open-source, ML-based load flow analyser for the **IEEE 14-bus** power system, packaged as an interactive web dashboard. The tool replaces iterative Newton–Raphson load flow calculations with a gradient-boosting ensemble that produces near-instantaneous predictions for bus voltages, phase angles, line currents, power flows, and system losses across 32 contingency topologies.
 
