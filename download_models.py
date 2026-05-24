@@ -27,9 +27,9 @@ import urllib.request
 #  CONFIGURATION
 #  ── Update these two constants after you publish your first GitHub Release
 # =============================================================================
-GITHUB_USERNAME = "<your-username>"          # e.g. "sohaibuddin22"
+GITHUB_USERNAME = "<SohaibUddin>"          
 REPO_NAME       = "data-driven-load-flow-analyser"
-RELEASE_TAG     = "v1.0.0"                   # must match the tag you create
+RELEASE_TAG     = "v1.0.0"                   
 
 MODEL_FILES = [
     "Voltage_Model.joblib",
